@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.4.0",
+    "cookiecutter_context": {
+      "project_name": "Gentle Dew",
+      "project_slug": "gentle_dew_34",
+      "project_dash_slug": "gentle-dew-34",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "module_approvers_group@cb-dev.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
